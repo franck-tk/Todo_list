@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@config darkMode 'class';
+
+@config darkMode: 'class';
